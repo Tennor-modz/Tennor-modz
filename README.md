@@ -14,7 +14,7 @@
 
 # CHAT ME ON WHATSAPP 👇    
 <a aria-label="Join our chats" href="https://wa.me/254703726139?text=Hi!! `Giddy Tennor` Sir, I need Your Help" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp" src="https://img.shields.io/badge/Giddy%20Tennor-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 
