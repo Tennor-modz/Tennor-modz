@@ -1,6 +1,6 @@
-# BELLAH-X MD
+# AM GIDDY Tennor 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +BELLAH-XMD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+GIDDY+TENNOR;RELEASED+12.12.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR FOLLOWING +ME-ON;MY+GITHUB+NEW+ACCOUNT;JOINED+10.10.2024" alt="Typing SVG" /></a>
 
 
 
@@ -11,9 +11,9 @@
 
   <p align="center">
 <a href="https://github.com/Tennor-modz/followers"><img title="Followers" src="https://img.shields.io/github/followers/Tennor-modz?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tennor-modz/Bellah-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tennor-modz/Bellah-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tennor-modz/Bellah-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Tennor-modz/Bellah-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tennor-modz/Bellah-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/Tennor-modz/Bellah-XMD?style=flat-square&color=green"></a>
+
+
+
 <a href="https://github.com/Tennor-modz/Bellah-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
