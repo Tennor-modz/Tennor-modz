@@ -12,7 +12,10 @@
   <p align="center">
 <a href="https://github.com/Tennor-modz/followers"><img title="Followers" src="https://img.shields.io/github/followers/Tennor-modz?color=blue&style=flat-square"></a>
 
-
+# CHAT ME ON WHATSAPP 👇    
+<a aria-label="Join our chats" href="https://wa.me/254703726139?text=Hi!! `Giddy Tennor` Sir, I need Your Help" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
 
 
 
