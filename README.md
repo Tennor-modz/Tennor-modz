@@ -20,11 +20,11 @@
 
 `Am The Owner of `
 
-* Vampire killer-retired
-* Hunter Crash bot-rerired
-* Bellah Xmd-retired
-* Silencer crasher-retired
-* Wisebots-retired
+* Vampire killer-`retired`
+* Hunter Crash bot-`retired`
+* Bellah Xmd-`retired`
+* Silencer crasher-`retired`
+* Wisebots-`retired`
 * Trashcore bots- `current project`
 
 
