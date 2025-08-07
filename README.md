@@ -1,4 +1,4 @@
-# AM GIDDY TENNOR 
+# AM TRASHCORE 🗑️ 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR FOLLOWING +ME-ON;MY+GITHUB+NEW+ACCOUNT;JOINED+14.10.2024" alt="Typing SVG" /></a>
 
@@ -19,11 +19,13 @@
 
 
 `Am The Owner of `
-* Vampire killer
-* Hunter Crash bot
-* Bellah Xmd
-* Silencer crasher
+* Vampire killer-retired
+* Hunter Crash bot-rerired
+* Bellah Xmd-retired
+* Silencer crasher-retired
+* Wisebots-retired
+* Trashcore bots-current project
 
 
   `My Collaborations`
-  * Venus Crasher 
+  * Venus Crasher (Collaborated with Zoro Tech)
