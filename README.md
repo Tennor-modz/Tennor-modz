@@ -24,8 +24,10 @@
 * Bellah Xmd-retired
 * Silencer crasher-retired
 * Wisebots-retired
-* Trashcore bots-current project
+* Trashcore bots- `current project`
 
 
   `My Collaborations`
-  * Venus Crasher (Collaborated with Zoro Tech)
+  * Venus Crasher
+  
+  (Collaborated with Zoro Tech)
