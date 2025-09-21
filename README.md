@@ -41,12 +41,12 @@
 <p align="center"><a href="https://komarev.com/ghpvc/?username=Tennor-modz&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Tennor-modz&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 <p align="center"><a href="https://github.com/Tennor-modz"><img src="https://github-readme-stats.vercel.app/api?username=Tennor-modz&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/Tennor-modz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanytofficial&theme=radical&layout=compact"></a></p>
-<p align="center"><a href="https://github.com/Tennor-modz"><img src="https://streak-stats.demolab.com/?user=salmanytofficial&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/Tennor-modz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tennor-modz&theme=radical&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/Tennor-modz"><img src="https://streak-stats.demolab.com/?user=Tennor-modz&theme=radical"></a></p>
 
- ![Animation](https://raw.githubusercontent.com/salmanytofficial/salmanytofficial/output/github-contribution-grid-snake-dark.svg)
+ ![Animation](https://raw.githubusercontent.com/Tennor-modz/Tennor-modz/output/github-contribution-grid-snake-dark.svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=salmanytofficial&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tennor-modz&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/Tennor-modz/github-readme-activity-graph)
 
 ---
 
