@@ -58,7 +58,7 @@ Optimized crash system for explosions & attacks.
 # 📬 Contact
 
 - Telegram: **[@tennormodzcoder](https://t.me/tennormodzcoder)**
-- GitHub: **https://github.com/GiddyTennor**
+- GitHub: **https://github.com/Tennor-modz**
 
 ---
 
