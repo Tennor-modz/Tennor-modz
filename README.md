@@ -32,11 +32,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GiddyTennor&show_icons=true&theme=tokyonight&hide_border=true" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=Tennor-modz &show_icons=true&theme=tokyonight&hide_border=true" height="150">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GiddyTennor&theme=tokyonight&hide_border=true" height="150">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tennor-modz &theme=tokyonight&hide_border=true" height="150">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiddyTennor&layout=compact&theme=tokyonight&hide_border=true" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tennor-modz &layout=compact&theme=tokyonight&hide_border=true" height="150">
 
 </div>
 
@@ -44,14 +44,14 @@
 
 # 🔥 Featured Projects
 
-### 🛠 **[Trashcore-ultra](https://github.com/GiddyTennor/Trashcore-ultra)**
+### 🛠 **[Trashcore-ultra](https://github.com/Tennor-modz/Trashcore-ultra)**
 Next-generation WhatsApp automation bot.
 
-### 🛡 **[Trashcore-Md](https://github.com/GiddyTennor/Trashcore-Md)**
+### 🛡 **[Trashcore-Md](https://github.com/Tennor-modz/Trashcore-Md)**
 A clean, stable, multi-device bot with extended features.
 
 ### 🎯 **[Hunter-Bots](https://github.com/GiddyTennor/Hunter-Bots)**
-Optimized bot system for speed & reliability.
+Optimized crash system for explosions & attacks.
 
 ---
 
