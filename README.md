@@ -102,7 +102,7 @@ Always building something new 🚀
 
 <div align="center">
 
-<a href="https://t.me/tennormodzcoder">
+<a href="https://t.me/trashcoredev2">
 <img src="https://img.shields.io/badge/Telegram-@tennormodzcoder-00FF9D?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 <a href="https://github.com/Tennor-modz">
